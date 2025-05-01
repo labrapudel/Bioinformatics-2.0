@@ -1,0 +1,11 @@
+UUID	Case ID	Entity Type	Entity ID	Category	Classification	Created Datetime
+0013684f-2a08-4b9f-9335-e6a82e3b4bec	TCGA-EJ-7218	aggregated_somatic_mutation	797d62c6-997c-4f3b-bd11-2b11ed7d9b06	General	Notification	2022-02-28T15:46:27.107769-06:00
+01285804-db83-44c0-858b-ab53e9a87940	TCGA-HC-A9TH	aggregated_somatic_mutation	2d05e246-fa06-4ffa-9f07-0b798033a459	General	Notification	2022-02-28T14:21:56.830134-06:00
+01789eaf-d7a7-4006-a4ae-941ae5f51022	TCGA-J9-A8CL	aggregated_somatic_mutation	02b1ef4a-2e14-40e9-883d-dfc51aaa661b	General	Notification	2022-02-28T12:33:20.549586-06:00
+02351409-c488-431a-b623-a3455f39ea77	TCGA-EJ-7797	aggregated_somatic_mutation	bba52e1c-fb22-4557-adb1-c00195da9ae4	General	Notification	2022-02-28T15:49:28.154453-06:00
+0236b142-52f7-4fdf-98cf-6af368ee4025	TCGA-CH-5790	aggregated_somatic_mutation	2e823f85-b889-4916-8084-df9511273879	General	Redaction	2022-02-28T09:53:52.536650-06:00
+024a78c4-3925-4f42-900a-97dcb5ce14c5	TCGA-EJ-5542	aggregated_somatic_mutation	08dc8375-9d0d-456f-91ff-9ff0098dcb6c	General	Notification	2022-02-28T14:18:24.069305-06:00
+03cb5055-543d-49fc-a2e4-f3fdf17810dd	TCGA-KC-A7F6	aggregated_somatic_mutation	e607a30a-60f0-40e5-877d-fc763ef1b82e	General	Notification	2022-02-28T15:48:46.503310-06:00
+04e1c5bf-27c3-4eef-ab16-33ba74c2be65	TCGA-CH-5739	aggregated_somatic_mutation	9e491a99-c89a-4083-8a9c-38e77b4a8c74	General	Notification	2022-02-28T14:22:43.102047-06:00
+04f015f0-d798-4158-bdf4-08d5c6fcf1e6	TCGA-YL-A9WH	aggregated_somatic_mutation	7f6fcd89-8ca8-40d0-b82c-b81a25989a94	General	Notification	2022-02-28T12:33:19.407060-06:00
+050de211-45c8-480b-a8e2-259c0f141ad7	TCGA-HC-7737	aggregated_somatic_mutation	aa857009-3f3c-45c3-adfa-dfddb5002eeb	General	Notification	2022-02-28T14:16:48.382769-06:00
